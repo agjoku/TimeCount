@@ -1,0 +1,9 @@
+name: CommandTestPlugin
+version: 'α'
+main: com.github.agjoku.bukkit.commandtestplugin.CommandTestPlugin
+api-version: 1.18
+
+commands:
+  timecount:
+    description: Time count
+    usage: /<command> [count]
